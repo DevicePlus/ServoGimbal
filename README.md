@@ -1,2 +1,3 @@
 # ServoGimbal
-3D image for servo controlled camera gimbal 
+3D model for servo controlled camera gimbal 
+Check out the tutorial here: [URL]
